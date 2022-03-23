@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&family=Oswald:wght@400;700&family=Poppins:wght@100&family=Source+Sans+Pro:wght@300&display=swap');
+body {
+  width: 100%;
+  height: 100vh;
+  background: #3498db;
+  font-family: 'Oswald', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1{
+  font-size: 150px;
+  font-weight: 700;
+  color: black;
+   -webkit-text-stroke: 10px black;
+   -webkit-text-fill-color: white;
+}
